@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "3分29秒",
+  "base_artist": "hitorie",
+  "createdAt": "2025-12-26T15:27:50.757304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "3分29秒",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/01_3分29秒_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "3分29秒",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/02_3分29秒_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "3分29秒",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/03_3分29秒_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒトリエ/3分29秒/3分29秒-ヒトリエ",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/04_ヒトリエ_3分29秒_3分29秒-ヒトリエ_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "3分29秒 - 3 min 29 sec",
+      "artist": "hitorie",
+      "has_synced": true,
+      "path": "select/05_3分29秒_-_3_min_29_sec_hitorie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "1. 3分29秒",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/06_1._3分29秒_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "3分29秒 (N3WPORT Remix) - SACRA BEATS Singles",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/07_3分29秒_(N3WPORT_Remix)_-_SACRA_BEATS_Singles_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "3分29秒",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/08_3分29秒_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "3分29秒 (N3WPORT Remix) - SACRA BEATS Singles - 3 min 29 sec (N3WPORT Remix) - SACRA BEATS Singles",
+      "artist": "hitorie",
+      "has_synced": true,
+      "path": "select/09_3分29秒_(N3WPORT_Remix)_-_SACRA_BEATS_Singles_-_3_min_29_sec_(N3WPORT_Remix)_-_SAC_hitorie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3分29秒",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_01_3分29秒_ヒトリエ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "3分29秒",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_02_3分29秒_ヒトリエ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "3分29秒",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_03_3分29秒_ヒトリエ.txt"
+    }
+  ]
+}
